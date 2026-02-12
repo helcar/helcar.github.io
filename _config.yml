@@ -3,20 +3,20 @@
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
+# `jekyll serve -l -H localhost`. If you change this file, please restart the
 # server process.
 
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Heajun An"
+title                    : "Qi Zhang"
 title_separator          : "-"
-name                     : &name "Heajun An"
+name                     : &name "Qi Zhang"
 description              : &description "Ph.D. Student at Virginia Tech"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://anheajun.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://helcar.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "anheajun/anheajun.github.io"
+repository               : "helcar/helcar.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,18 +24,18 @@ repository               : "anheajun/anheajun.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Heajun An"
-  pronouns         : # example: "she/her"  
+  name             : "Qi Zhang"
+  pronouns         : # example: "she/her"
   bio              : "Computer Science Ph.D. Student"
-  location         : "Blacksburg, VA, USA"
+  location         : "Arlington, VA, USA"
   employer         : "Virginia Tech"
   uri              : # URL
-  email            : "heajun@vt.edu" 
+  email            : "qiz21@vt.edu"
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?hl=ko&user=-pr8WokAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=OHlkyDkAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : # URL
@@ -52,8 +52,8 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : # Username
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  kaggle           : # Username
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
   # Social media
   artstation       : # Username
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "anheajun"
+  linkedin         : "qi-zhang-19458a190"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -87,7 +87,7 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles'
   conferences:
     title: 'Conference Papers'
 
