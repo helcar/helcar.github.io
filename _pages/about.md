@@ -29,6 +29,13 @@ Designing reinforcement learning methods for sequential decision-making under un
 **AI for Online Safety and Cybersecurity**  
 Applying machine learning and LLMs to problems including phishing, scams, misinformation, cybergrooming, and cybersecurity education.
 
-## News
+## Currently Exploring
 
-* **Feb 3, 2026** Hello World!
+A few questions that have been keeping me busy lately:
+
+- 🤖 How can an LLM plan a conversation instead of only generating the next response?
+- 🔎 How can we tell when a model is likely to be wrong, and explain why?
+- 🎲 How should an agent make decisions when its information is incomplete or uncertain?
+- 🛡️ How can we use AI responsibly in socially sensitive and cybersecurity-related settings?
+
+These questions connect much of my recent work in large language models, reinforcement learning, trustworthy AI, and online safety.

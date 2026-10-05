@@ -60,6 +60,23 @@ Teaching Experience
 * **New York University** (Teaching Assistant)
   * CS-GY 6823: Network Security — Spring 2021
 
+  Professional Service
+====================
+
+* **Organizing Chair**
+  * NSF Artificial Intelligence Awareness Workshop — Sep. 2025
+
+* **Program Committee**
+  * AAAI Conference on Artificial Intelligence (AAAI 2027)
+  * IEEE International Conference on Web Services (ICWS 2026)
+  * International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2024)
+
+* **Reviewer**
+  * ACM Computing Surveys — 2026
+  * IEEE Transactions on Services Computing — 2025
+  * IEEE Transactions on Mobile Computing — 2025
+  * IEEE International Conference on Big Data (IEEE BigData 2025)
+
 Publications
 ============
 
