@@ -2,25 +2,32 @@
 permalink: /
 title: " "
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
-I am a second-year Ph.D. student in the [Department of Computer Science](https://cs.vt.edu/) at [Virginia Tech](https://www.vt.edu/), advised by Professor [Jin-Hee Cho](https://website.cs.vt.edu/people/faculty/jin-hee-cho.html). I am a member of the [Trustworthy Cyberspace Lab (tClab)](https://people.cs.vt.edu/~jicho/). My research lies at the intersection of artificial intelligence and cybersecurity, with a focus on reinforcement learning, large language models, and human-centered system design for online safety and security.
+I am a Ph.D. student in the
+[Department of Computer Science](https://cs.vt.edu/)
+at [Virginia Tech](https://www.vt.edu/), advised by Professor
+[Jin-Hee Cho](https://website.cs.vt.edu/people/faculty/jin-hee-cho.html).
+I am a member of the
+[Trustworthy Cyberspace Lab (tClab)](https://people.cs.vt.edu/~jicho/).
+
+My research focuses on trustworthy artificial intelligence, reinforcement learning, and large language models. I am particularly interested in developing AI systems that can reason and interact strategically over long-horizon tasks, understanding and mitigating model failures, and designing uncertainty-aware learning methods for socially sensitive and cybersecurity applications.
 
 ## Research Interests
 
-**Goal-Directed Reinforcement Learning**
-Designing reinforcement learning agents that achieve structured, goal-oriented behavior in complex and interactive environments.
+**Trustworthy Artificial Intelligence**  
+Understanding, explaining, detecting, and mitigating individual model failures, including uncertainty, misclassification, robustness, and selective prediction.
 
-**Modular LLM Guardrails and Safety**
-Developing modular and audience-specific guardrails to guide large language model behavior and mitigate harmful or inappropriate outputs.
+**Large Language Models and Strategic Dialogue**  
+Developing LLM systems capable of structured, goal-directed, and long-horizon interaction using reinforcement learning and explicit dialogue planning.
 
-**Human–LLM Interaction**
-Understanding and analyzing how people interact with and utilize LLM-based systems in real-world and educational contexts.
+**Deep Reinforcement Learning**  
+Designing reinforcement learning methods for sequential decision-making under uncertainty, partial observability, and competing objectives.
 
-**AI for Cybersecurity Education**
-Designing AI-driven approaches for online safety, including scam and cybergrooming prevention.
+**AI for Online Safety and Cybersecurity**  
+Applying machine learning and LLMs to problems including phishing, scams, misinformation, cybergrooming, and cybersecurity education.
 
 ## News
 

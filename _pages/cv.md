@@ -11,17 +11,13 @@ redirect_from:
 Education
 =========
 
-* Ph.D in Computer Science, Virginia Tech, 2028 (expected)
-* M.S. in Computer Science, Georgia Tech, 2023
-* M.A. in Quantitative Methods in the Social Sciences, Columbia University, 2019
-* B.A. in Economics, Education, Emory University, 2017
+* Ph.D in Computer Science, Virginia Tech, 2026 (expected)
+* M.S. in Computer Science, New York University, 2021
+* B.S. in Electronic Science and Technology, Beijing Institute of Technology, 2019
 
 Work Experience
 ===============
 
-* **AI Researcher**
-  * Affiliation: Republic of Korea Army
-  * Dates: January 2020 - July 2021
 
 Research Projects
 =================
@@ -41,8 +37,16 @@ Research Projects
 Teaching
 ========
 
-* Fall 2024: CS 3654 - Introductory Data Analytics and Visualization (Graduate Teaching Assistant)
-* Spring 2025: CS 5804 - Introduction to Artificial Intelligence (Graduate Teaching Assistant)
+Teaching Experience
+===================
+
+* **Virginia Tech** (Teaching Assistant)
+  * CS 5584: Network Security — Fall 2026
+  * CS 2104: Introduction to Problem Solving in Computer Science — Spring 2022, Summer 2024
+  * CS 3114: Data Structures and Algorithms — Fall 2021
+
+* **New York University** (Teaching Assistant)
+  * CS-GY 6823: Network Security — Spring 2021
 
 Publications
 ============
@@ -61,8 +65,8 @@ Talks
 {% assign talks = site.talks | sort: "date" | reverse %}
   {% for post in talks %}
     <li>
-      <strong>{{ post.title }}</strong>, 
-      {{ post.venue }}{% if post.location %}, {{ post.location }}{% endif %}, 
+      <strong>{{ post.title }}</strong>,
+      {{ post.venue }}{% if post.location %}, {{ post.location }}{% endif %},
       {{ post.date | date: "%B %d, %Y" }}
     </li>
   {% endfor %}
