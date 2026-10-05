@@ -15,8 +15,8 @@ Education
 * M.S. in Computer Science, New York University, 2021
 * B.S. in Electronic Science and Technology, Beijing Institute of Technology, 2019
 
-Work Experience
-===============
+<!-- Work Experience
+=============== -->
 
 
 Research Projects
@@ -34,8 +34,6 @@ Research Projects
   * Dates: Fall 2025 - Present
   * Principal Investigators: Jin-Hee Cho, Junghwan Kim
 
-Teaching
-========
 
 Teaching Experience
 ===================
