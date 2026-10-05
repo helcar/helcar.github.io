@@ -36,7 +36,7 @@ Research Projects
     * Funding: National Science Foundation (NSF)
     * Date: Aug. 2025 – Present
     * Principal Investigators: Jin-Hee Cho
-    * Website: [Link](https://wordpress.cs.vt.edu/rylai/)
+    * Website: [Link](https://wordpress.cs.vt.edu/trustworthy/)
     * Study trustworthy AI from an instance-level perspective, focusing on detecting, explaining, prioritizing, and mitigating individual model failures after deployment.
     * Developed **X-MAP**, an explainable misclassification-analysis framework that transforms local SHAP attributions into semantic topic profiles using non-negative matrix factorization.
 
@@ -44,6 +44,7 @@ Research Projects
     * Funding: National Science Foundation (NSF)
     * Date: Oct. 2021 – Aug. 2025
     * Principal Investigators: Jin-Hee Cho, Feng Chen, Dong Hyun Jeong
+    * Website: [Link](https://wordpress.cs.vt.edu/traces/)
     * Investigated competitive influence maximization under uncertain, evolving, and non-binary user opinions.
     * Developed **DRIM**, a dual-agent Deep Reinforcement Learning framework for modeling strategic competition between parties propagating true and false information in online social networks.
 
