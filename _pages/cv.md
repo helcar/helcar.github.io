@@ -60,7 +60,7 @@ Teaching Experience
 * **New York University** (Teaching Assistant)
   * CS-GY 6823: Network Security — Spring 2021
 
-  Professional Service
+Professional Service
 ====================
 
 * **Organizing Chair**
