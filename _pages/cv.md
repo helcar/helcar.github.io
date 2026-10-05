@@ -22,17 +22,30 @@ Education
 Research Projects
 =================
 
-* **Using Intelligent Conversational Agents to Empower Adolescents to be Resilient Against Cybergrooming**
+  * **Strategic and Stage-Structured LLM Dialogue Systems**
+    * Funding: National Science Foundation (NSF)
+    * Date: Sep. 2024 – Present
+    * Principal Investigators: Jin-Hee Cho, Pamela J. Wisniewski, Lifu Huang, Sang Won Lee
+    * Website: [Link](https://wordpress.cs.vt.edu/rylai/)
+    * Investigate how large language models can conduct structured, goal-directed, and long-horizon conversations in socially sensitive domains.
+    * Developed **DeepSAGE**, a hybrid LLM–Deep Reinforcement Learning framework that models an initial Cognitive Behavioral Therapy session as eleven stages with explicit therapeutic objectives.
+    * Contributed to **StagePilot**, an offline reinforcement learning framework for stage-controlled cybergrooming dialogue simulation.
 
-  * Funding: National Science Foundation (NSF)
-  * Dates: Fall 2024 - Present
-  * Principal Investigators: Jin-Hee Cho, Pamela J. Wisniewski, Lifu Huang, Sang Won Lee
-  * Website: [Link](https://wordpress.cs.vt.edu/rylai/)
-* **AI-Powered Solution for Cyber Scam Prevention: Empowering Community Support for Older Adults**
 
-  * Funding: Commonwealth Cyber Initiative (CCI) and OpenAI
-  * Dates: Fall 2025 - Present
-  * Principal Investigators: Jin-Hee Cho, Junghwan Kim
+  * **Detection, Explanation, and Mitigation of AI Failures**
+    * Funding: National Science Foundation (NSF)
+    * Date: Aug. 2025 – Present
+    * Principal Investigators: Jin-Hee Cho
+    * Website: [Link](https://wordpress.cs.vt.edu/rylai/)
+    * Study trustworthy AI from an instance-level perspective, focusing on detecting, explaining, prioritizing, and mitigating individual model failures after deployment.
+    * Developed **X-MAP**, an explainable misclassification-analysis framework that transforms local SHAP attributions into semantic topic profiles using non-negative matrix factorization.
+
+  * **Uncertainty-Aware Reinforcement Learning for Competitive Influence Maximization**
+    * Funding: National Science Foundation (NSF)
+    * Date: Oct. 2021 – Aug. 2025
+    * Principal Investigators: Jin-Hee Cho, Feng Chen, Dong Hyun Jeong
+    * Investigated competitive influence maximization under uncertain, evolving, and non-binary user opinions.
+    * Developed **DRIM**, a dual-agent Deep Reinforcement Learning framework for modeling strategic competition between parties propagating true and false information in online social networks.
 
 
 Teaching Experience
