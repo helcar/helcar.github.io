@@ -28,8 +28,8 @@ Applying machine learning and LLMs to problems including phishing, scams, misinf
 
 A few things that probably do not belong in a research statement:
 
-- My research is about uncertainty. Conveniently, academia provides plenty of it.
+- My research is about uncertainty. Certainly, academia provides plenty of it.
 - I have spent several years teaching machines how to make better decisions. Results for myself are still mixed.
-- If a conversation has stages, objectives, rewards, or hidden states, there is a non-zero chance I will try to model it.
 - I somehow went from electronic science to computer science to reinforcement learning to asking language models increasingly complicated questions.
+- Science fiction has been talking about silicon-based life for decades. Apparently, it was onto something.
 - This website is also an experiment in whether I can maintain something without turning it into a research project.
